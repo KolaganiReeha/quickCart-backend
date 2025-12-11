@@ -7,3 +7,5 @@ motor
 PyJWT
 email-validator
 jinja2
+fastapi-mail
+
